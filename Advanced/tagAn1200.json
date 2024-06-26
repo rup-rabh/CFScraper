@@ -1,0 +1,620 @@
+[
+    [
+        "binary search",
+        "combinatorics",
+        "implementation",
+        "math",
+        "*1800"
+    ],
+    [
+        "brute force",
+        "combinatorics",
+        "math",
+        "*1200"
+    ],
+    [
+        "greedy",
+        "*1000"
+    ],
+    [
+        "implementation",
+        "math",
+        "*1100"
+    ],
+    [
+        "brute force",
+        "combinatorics",
+        "math",
+        "*1200"
+    ],
+    [
+        "greedy",
+        "*1000"
+    ],
+    [
+        "implementation",
+        "math",
+        "*1100"
+    ],
+    [
+        "binary search",
+        "combinatorics",
+        "constructive algorithms",
+        "number theory",
+        "*1200"
+    ],
+    [
+        "bitmasks",
+        "greedy",
+        "*1000"
+    ],
+    [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "*1100"
+    ],
+    [
+        "greedy",
+        "implementation",
+        "*1100"
+    ],
+    [
+        "binary search",
+        "brute force",
+        "greedy",
+        "*1200"
+    ],
+    [
+        "brute force",
+        "greedy",
+        "math",
+        "sortings",
+        "*1000"
+    ],
+    [
+        "dp",
+        "greedy",
+        "implementation",
+        "sortings",
+        "strings",
+        "*1100"
+    ],
+    [
+        "implementation",
+        "sortings",
+        "*1000"
+    ],
+    [
+        "constructive algorithms",
+        "greedy",
+        "*1000"
+    ],
+    [
+        "constructive algorithms",
+        "number theory",
+        "*1000"
+    ],
+    [
+        "constructive algorithms",
+        "implementation",
+        "*1100"
+    ],
+    [
+        "*special problem",
+        "dp",
+        "*1100"
+    ],
+    [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "*1100"
+    ],
+    [
+        "constructive algorithms",
+        "data structures",
+        "implementation",
+        "sortings",
+        "*1000"
+    ],
+    [
+        "greedy",
+        "math",
+        "number theory",
+        "*1200"
+    ],
+    [
+        "implementation",
+        "math",
+        "*1200"
+    ],
+    [
+        "binary search",
+        "data structures",
+        "greedy",
+        "*1200"
+    ],
+    [
+        "brute force",
+        "dp",
+        "implementation",
+        "number theory",
+        "*1100"
+    ],
+    [
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation",
+        "*1100"
+    ],
+    [
+        "dp",
+        "greedy",
+        "math",
+        "*1100"
+    ],
+    [
+        "brute force",
+        "*1200"
+    ],
+    [
+        "bitmasks",
+        "constructive algorithms",
+        "*1100"
+    ],
+    [
+        "constructive algorithms",
+        "math",
+        "*1100"
+    ],
+    [
+        "dfs and similar",
+        "dp",
+        "implementation",
+        "*1200"
+    ],
+    [
+        "brute force",
+        "dp",
+        "greedy",
+        "math",
+        "*1000"
+    ],
+    [
+        "constructive algorithms",
+        "*1200"
+    ],
+    [
+        "brute force",
+        "dp",
+        "greedy",
+        "math",
+        "*1200"
+    ],
+    [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory",
+        "sortings",
+        "*1200"
+    ],
+    [
+        "brute force",
+        "implementation",
+        "math",
+        "number theory",
+        "*1100"
+    ],
+    [
+        "number theory",
+        "*1100"
+    ],
+    [
+        "brute force",
+        "greedy",
+        "math",
+        "*1000"
+    ],
+    [
+        "brute force",
+        "constructive algorithms",
+        "math",
+        "*1000"
+    ],
+    [
+        "binary search",
+        "greedy",
+        "sortings",
+        "two pointers",
+        "*1200"
+    ],
+    [
+        "brute force",
+        "greedy",
+        "math",
+        "*1000"
+    ],
+    [
+        "dp",
+        "implementation",
+        "*1200"
+    ],
+    [
+        "brute force",
+        "greedy",
+        "math",
+        "number theory",
+        "*1200"
+    ],
+    [
+        "dp",
+        "greedy",
+        "implementation",
+        "*1100"
+    ],
+    [
+        "combinatorics",
+        "constructive algorithms",
+        "math",
+        "sortings",
+        "*1200"
+    ],
+    [
+        "data structures",
+        "greedy",
+        "sortings",
+        "two pointers",
+        "*1100"
+    ],
+    [
+        "games",
+        "greedy",
+        "math",
+        "sortings",
+        "*1100"
+    ],
+    [
+        "brute force",
+        "combinatorics",
+        "data structures",
+        "dp",
+        "strings",
+        "*1100"
+    ],
+    [
+        "constructive algorithms",
+        "games",
+        "greedy",
+        "implementation",
+        "math",
+        "*1200"
+    ],
+    [
+        "constructive algorithms",
+        "math",
+        "number theory",
+        "*1000"
+    ],
+    [
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation",
+        "sortings",
+        "*1200"
+    ],
+    [
+        "greedy",
+        "math",
+        "*1100"
+    ],
+    [
+        "strings",
+        "*1000"
+    ],
+    [
+        "*special problem",
+        "implementation",
+        "*1100"
+    ],
+    [
+        "bitmasks",
+        "constructive algorithms",
+        "math",
+        "number theory",
+        "*1200"
+    ],
+    [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "strings",
+        "*1200"
+    ],
+    [
+        "data structures",
+        "implementation",
+        "strings",
+        "*1000"
+    ],
+    [
+        "brute force",
+        "*1000"
+    ],
+    [
+        "greedy",
+        "trees",
+        "*1100"
+    ],
+    [
+        "binary search",
+        "dp",
+        "greedy",
+        "sortings",
+        "two pointers",
+        "*1100"
+    ],
+    [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "*1200"
+    ],
+    [
+        "binary search",
+        "brute force",
+        "greedy",
+        "*1100"
+    ],
+    [
+        "greedy",
+        "math",
+        "*1100"
+    ],
+    [
+        "dp",
+        "greedy",
+        "two pointers",
+        "*1100"
+    ],
+    [
+        "brute force",
+        "implementation",
+        "number theory",
+        "*1100"
+    ],
+    [
+        "constructive algorithms",
+        "*1000"
+    ],
+    [
+        "brute force",
+        "math",
+        "sortings",
+        "*1100"
+    ],
+    [
+        "binary search",
+        "geometry",
+        "math",
+        "*1200"
+    ],
+    [
+        "binary search",
+        "greedy",
+        "math",
+        "two pointers",
+        "*1100"
+    ],
+    [
+        "dp",
+        "math",
+        "*1000"
+    ],
+    [
+        "brute force",
+        "implementation",
+        "*1200"
+    ],
+    [
+        "math",
+        "number theory",
+        "*1200"
+    ],
+    [
+        "greedy",
+        "sortings",
+        "*1000"
+    ],
+    [
+        "brute force",
+        "games",
+        "greedy",
+        "implementation",
+        "*1200"
+    ],
+    [
+        "binary search",
+        "sortings",
+        "*1100"
+    ],
+    [
+        "math",
+        "*1200"
+    ],
+    [
+        "math",
+        "number theory",
+        "*1100"
+    ],
+    [
+        "bitmasks",
+        "greedy",
+        "math",
+        "*1200"
+    ],
+    [
+        "geometry",
+        "math",
+        "shortest paths",
+        "sortings",
+        "*1100"
+    ],
+    [
+        "bitmasks",
+        "constructive algorithms",
+        "strings",
+        "*1100"
+    ],
+    [
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "strings",
+        "*1100"
+    ],
+    [
+        "implementation",
+        "math",
+        "*1100"
+    ],
+    [
+        "greedy",
+        "math",
+        "sortings",
+        "*1100"
+    ],
+    [
+        "binary search",
+        "data structures",
+        "implementation",
+        "sortings",
+        "*1100"
+    ],
+    [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "*1000"
+    ],
+    [
+        "binary search",
+        "brute force",
+        "greedy",
+        "math",
+        "*1200"
+    ],
+    [
+        "brute force",
+        "dp",
+        "greedy",
+        "math",
+        "*1200"
+    ],
+    [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "sortings",
+        "*1000"
+    ],
+    [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory",
+        "*1000"
+    ],
+    [
+        "greedy",
+        "sortings",
+        "*1200"
+    ],
+    [
+        "greedy",
+        "implementation",
+        "math",
+        "*1100"
+    ],
+    [
+        "binary search",
+        "brute force",
+        "math",
+        "*1200"
+    ],
+    [
+        "greedy",
+        "*1000"
+    ],
+    [
+        "binary search",
+        "geometry",
+        "implementation",
+        "math",
+        "*1100"
+    ],
+    [
+        "greedy",
+        "math",
+        "sortings",
+        "*1000"
+    ],
+    [
+        "binary search",
+        "data structures",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings",
+        "*1200"
+    ],
+    [
+        "bitmasks",
+        "greedy",
+        "two pointers",
+        "*1000"
+    ],
+    [
+        "constructive algorithms",
+        "geometry",
+        "math",
+        "*1200"
+    ],
+    [
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings",
+        "*1200"
+    ],
+    [
+        "constructive algorithms",
+        "math",
+        "*1000"
+    ],
+    [
+        "combinatorics",
+        "dfs and similar",
+        "dp",
+        "math",
+        "trees",
+        "*1200"
+    ],
+    [
+        "bitmasks",
+        "greedy",
+        "math",
+        "*1100"
+    ],
+    [
+        "implementation",
+        "*1000"
+    ]
+]

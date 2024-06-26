@@ -1,0 +1,697 @@
+[
+    [
+        "binary search",
+        "combinatorics",
+        "implementation",
+        "math",
+        "*1800"
+    ],
+    [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "implementation",
+        "*1700"
+    ],
+    [
+        "combinatorics",
+        "math",
+        "number theory",
+        "*1600"
+    ],
+    [
+        "combinatorics",
+        "dp",
+        "greedy",
+        "math",
+        "*1700"
+    ],
+    [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math",
+        "*1800"
+    ],
+    [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "hashing",
+        "implementation",
+        "math",
+        "matrices",
+        "sortings",
+        "*1600"
+    ],
+    [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "hashing",
+        "strings",
+        "*1800"
+    ],
+    [
+        "data structures",
+        "greedy",
+        "implementation",
+        "math",
+        "*1600"
+    ],
+    [
+        "binary search",
+        "dp",
+        "greedy",
+        "implementation",
+        "two pointers",
+        "*1600"
+    ],
+    [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "shortest paths",
+        "trees",
+        "*1700"
+    ],
+    [
+        "dp",
+        "*1800"
+    ],
+    [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings",
+        "*1700"
+    ],
+    [
+        "data structures",
+        "dsu",
+        "sortings",
+        "*1700"
+    ],
+    [
+        "binary search",
+        "brute force",
+        "dfs and similar",
+        "geometry",
+        "implementation",
+        "math",
+        "*1600"
+    ],
+    [
+        "dp",
+        "*1800"
+    ],
+    [
+        "dp",
+        "implementation",
+        "*1700"
+    ],
+    [
+        "binary search",
+        "data structures",
+        "*1800"
+    ],
+    [
+        "constructive algorithms",
+        "*1600"
+    ],
+    [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "number theory",
+        "*1800"
+    ],
+    [
+        "*special problem",
+        "*1600"
+    ],
+    [
+        "combinatorics",
+        "dp",
+        "math",
+        "*1600"
+    ],
+    [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "*1600"
+    ],
+    [
+        "dp",
+        "games",
+        "greedy",
+        "math",
+        "schedules",
+        "*1800"
+    ],
+    [
+        "brute force",
+        "greedy",
+        "implementation",
+        "sortings",
+        "*1700"
+    ],
+    [
+        "combinatorics",
+        "dp",
+        "math",
+        "sortings",
+        "*1800"
+    ],
+    [
+        "bitmasks",
+        "brute force",
+        "greedy",
+        "implementation",
+        "trees",
+        "*1700"
+    ],
+    [
+        "dfs and similar",
+        "geometry",
+        "graph matchings",
+        "graphs",
+        "*1800"
+    ],
+    [
+        "brute force",
+        "strings",
+        "two pointers",
+        "*1700"
+    ],
+    [
+        "binary search",
+        "dp",
+        "greedy",
+        "implementation",
+        "trees",
+        "*1600"
+    ],
+    [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "*1700"
+    ],
+    [
+        "geometry",
+        "greedy",
+        "math",
+        "*1700"
+    ],
+    [
+        "binary search",
+        "greedy",
+        "sortings",
+        "two pointers",
+        "*1800"
+    ],
+    [
+        "binary search",
+        "data structures",
+        "dp",
+        "two pointers",
+        "*1600"
+    ],
+    [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "interactive",
+        "math",
+        "*1700"
+    ],
+    [
+        "binary search",
+        "combinatorics",
+        "implementation",
+        "math",
+        "*1800"
+    ],
+    [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings",
+        "*1800"
+    ],
+    [
+        "binary search",
+        "constructive algorithms",
+        "geometry",
+        "greedy",
+        "interactive",
+        "math",
+        "*1700"
+    ],
+    [
+        "implementation",
+        "math",
+        "number theory",
+        "*1600"
+    ],
+    [
+        "combinatorics",
+        "dfs and similar",
+        "graphs",
+        "*1700"
+    ],
+    [
+        "brute force",
+        "dp",
+        "greedy",
+        "strings",
+        "*1800"
+    ],
+    [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "sortings",
+        "*1700"
+    ],
+    [
+        "brute force",
+        "math",
+        "number theory",
+        "*1600"
+    ],
+    [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "two pointers",
+        "*1800"
+    ],
+    [
+        "bitmasks",
+        "constructive algorithms",
+        "divide and conquer",
+        "greedy",
+        "math",
+        "*1800"
+    ],
+    [
+        "brute force",
+        "games",
+        "greedy",
+        "math",
+        "*1600"
+    ],
+    [
+        "brute force",
+        "math",
+        "number theory",
+        "*1600"
+    ],
+    [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math",
+        "*1600"
+    ],
+    [
+        "brute force",
+        "constructive algorithms",
+        "geometry",
+        "math",
+        "*1700"
+    ],
+    [
+        "graphs",
+        "greedy",
+        "implementation",
+        "shortest paths",
+        "sortings",
+        "*1800"
+    ],
+    [
+        "bitmasks",
+        "combinatorics",
+        "dp",
+        "*1800"
+    ],
+    [
+        "*special problem",
+        "greedy",
+        "*1800"
+    ],
+    [
+        "*special problem",
+        "*special problem",
+        "implementation",
+        "implementation",
+        "*1600"
+    ],
+    [
+        "*special problem",
+        "greedy",
+        "*1600"
+    ],
+    [
+        "greedy",
+        "sortings",
+        "*1800"
+    ],
+    [
+        "brute force",
+        "combinatorics",
+        "number theory",
+        "*1600"
+    ],
+    [
+        "greedy",
+        "math",
+        "*1700"
+    ],
+    [
+        "constructive algorithms",
+        "data structures",
+        "divide and conquer",
+        "greedy",
+        "implementation",
+        "sortings",
+        "*1800"
+    ],
+    [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "*1600"
+    ],
+    [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "greedy",
+        "*1700"
+    ],
+    [
+        "binary search",
+        "dp",
+        "greedy",
+        "implementation",
+        "math",
+        "*1700"
+    ],
+    [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "shortest paths",
+        "trees",
+        "*1600"
+    ],
+    [
+        "constructive algorithms",
+        "*1700"
+    ],
+    [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "math",
+        "two pointers",
+        "*1700"
+    ],
+    [
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "two pointers",
+        "*1700"
+    ],
+    [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "sortings",
+        "*1700"
+    ],
+    [
+        "implementation",
+        "strings",
+        "*1600"
+    ],
+    [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings",
+        "*1700"
+    ],
+    [
+        "bitmasks",
+        "greedy",
+        "*1700"
+    ],
+    [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "shortest paths",
+        "trees",
+        "*1700"
+    ],
+    [
+        "bitmasks",
+        "combinatorics",
+        "divide and conquer",
+        "dp",
+        "math",
+        "*1700"
+    ],
+    [
+        "data structures",
+        "greedy",
+        "*1600"
+    ],
+    [
+        "dp",
+        "*1600"
+    ],
+    [
+        "dfs and similar",
+        "dsu",
+        "games",
+        "graphs",
+        "shortest paths",
+        "trees",
+        "*1700"
+    ],
+    [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "implementation",
+        "math",
+        "*1800"
+    ],
+    [
+        "greedy",
+        "implementation",
+        "sortings",
+        "*1800"
+    ],
+    [
+        "bitmasks",
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "implementation",
+        "math",
+        "*1700"
+    ],
+    [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "implementation",
+        "*1800"
+    ],
+    [
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy",
+        "math",
+        "*1700"
+    ],
+    [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "dp",
+        "*1800"
+    ],
+    [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "*1600"
+    ],
+    [
+        "dp",
+        "greedy",
+        "*1800"
+    ],
+    [
+        "data structures",
+        "dfs and similar",
+        "implementation",
+        "strings",
+        "trees",
+        "*1600"
+    ],
+    [
+        "binary search",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "sortings",
+        "*1800"
+    ],
+    [
+        "binary search",
+        "data structures",
+        "math",
+        "*1600"
+    ],
+    [
+        "dfs and similar",
+        "dp",
+        "trees",
+        "*1800"
+    ],
+    [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "*1600"
+    ],
+    [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers",
+        "*1800"
+    ],
+    [
+        "binary search",
+        "math",
+        "number theory",
+        "*1800"
+    ],
+    [
+        "bitmasks",
+        "greedy",
+        "math",
+        "strings",
+        "trees",
+        "*1800"
+    ],
+    [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation",
+        "*1700"
+    ],
+    [
+        "constructive algorithms",
+        "greedy",
+        "two pointers",
+        "*1700"
+    ],
+    [
+        "binary search",
+        "brute force",
+        "data structures",
+        "hashing",
+        "strings",
+        "*1600"
+    ],
+    [
+        "math",
+        "number theory",
+        "*1800"
+    ],
+    [
+        "constructive algorithms",
+        "implementation",
+        "interactive",
+        "*1800"
+    ],
+    [
+        "binary search",
+        "brute force",
+        "implementation",
+        "math",
+        "*1800"
+    ],
+    [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "math",
+        "two pointers",
+        "*1800"
+    ],
+    [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "math",
+        "trees",
+        "*1800"
+    ],
+    [
+        "binary search",
+        "brute force",
+        "data structures",
+        "two pointers",
+        "*1600"
+    ],
+    [
+        "brute force",
+        "dp",
+        "greedy",
+        "math",
+        "strings",
+        "*1800"
+    ]
+]
